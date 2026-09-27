@@ -1,4 +1,10 @@
-# The Claude Council ⚖️
+# Claude Council Khalifa ⚖️
+
+<div dir="rtl">
+
+مجلس من 4 Agents بيحكم على فكرة البيزنس بتاعتك قبل ما تضيع عليها شهور وفلوس: المؤيد، المشكك، المستثمر، والحَكَم. وفي الآخر بيقولك يا تبنيها (BUILD)، يا تعدّلها الأول (FIX FIRST)، يا تنساها (KILL).
+
+</div>
 
 **4 agents. 1 idea. 1 verdict.** A Claude Code skill that tells you whether your business idea is worth building before you spend months and money on it.
 
