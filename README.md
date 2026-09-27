@@ -22,9 +22,9 @@ A KILL that saves six months is the most valuable thing it can produce.
 ## Install
 
 ```bash
-git clone https://github.com/faroukahmed89-droid/claude-council.git
+git clone https://github.com/faroukahmed89-droid/claude-council-khalifa.git
 mkdir -p ~/.claude/skills
-cp -r claude-council/skills/claude-council ~/.claude/skills/
+cp -r claude-council-khalifa/skills/claude-council ~/.claude/skills/
 ```
 
 Then open a **new** Claude Code session.
